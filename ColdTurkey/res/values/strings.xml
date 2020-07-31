@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cold Turkey</string>
+    <string name="service_name">ColdTurkeyService</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="no_schedules">No schedules</string>
+    <string name="action_new">Add application(s)</string>
+    
+    <string name="add_application_title">Add application(s)</string>
+    <string name="action_next_item">Next</string>
+    
+    <string name="set_schedule_title">Set schedule</string>
+    <string name="selected_applications_label">Application(s):</string>
+    <string name="start_datetime_picker_label">From:</string>
+    <string name="end_datetime_picker_label">To:</string>
+    <string name="action_accept">Confirm</string>
+    
+    <string name="stop">You stopped yourself from going to this application, remember?</string>
+
+</resources>
